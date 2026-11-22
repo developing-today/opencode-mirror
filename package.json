@@ -91,7 +91,7 @@
       "marked": "18.0.11",
       "marked-shiki": "1.2.1",
       "@playwright/test": "1.60.0",
-      "semver": "7.7.4",
+      "semver": "7.8.6",
       "typescript": "npm:@typescript/typescript6@6.0.2",
       "@typescript/native": "npm:typescript@7.1.0-beta",
       "zod": "4.6.7",
@@ -126,7 +126,7 @@
     "husky": "9.1.7",
     "oxlint": "1.93.0",
     "prettier": "3.6.2",
-    "semver": "^7.6.0",
+    "semver": "^7.8.6",
     "turbo": "2.10.2"
   },
   "dependencies": {
