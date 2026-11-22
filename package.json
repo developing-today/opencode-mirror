@@ -101,7 +101,7 @@
       "string-width": "7.2.0",
       "tailwindcss": "4.1.11",
       "vite": "7.3.7",
-      "@solidjs/meta": "0.29.4",
+      "@solidjs/meta": "2.0.0",
       "@solidjs/router": "1.0.0",
       "@solidjs/start": "2.1.0",
       "@sentry/solid": "10.71.0",
