@@ -69,7 +69,7 @@
     "@lydell/node-pty-darwin-x64": "1.2.0-beta.12",
     "@lydell/node-pty-linux-arm64": "1.2.0-beta.12",
     "@lydell/node-pty-linux-x64": "1.2.0-beta.12",
-    "@lydell/node-pty-win32-arm64": "1.2.0-beta.12",
+    "@lydell/node-pty-win32-arm64": "1.2.0-beta.18",
     "@lydell/node-pty-win32-x64": "1.2.0-beta.12",
     "@ff-labs/fff-bin-darwin-arm64": "0.10.5",
     "@ff-labs/fff-bin-linux-arm64-gnu": "0.10.5",
