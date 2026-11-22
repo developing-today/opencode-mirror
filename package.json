@@ -113,7 +113,7 @@
     }
   },
   "devDependencies": {
-    "@ast-grep/cli": "0.44.0",
+    "@ast-grep/cli": "0.51.3",
     "@hona/strobe": "catalog:",
     "@opencode/client": "workspace:*",
     "@oxlint/plugins": "1.93.0",
