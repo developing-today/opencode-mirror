@@ -82,7 +82,7 @@
     "@solid-primitives/storage": "catalog:",
     "@solidjs/meta": "catalog:",
     "@solidjs/router": "catalog:",
-    "@tanstack/solid-query": "5.91.4",
+    "@tanstack/solid-query": "5.108.1",
     "@tanstack/solid-virtual": "catalog:",
     "effect": "catalog:",
     "fuzzysort": "catalog:",
