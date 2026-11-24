@@ -40,6 +40,13 @@ updates:
         patterns:
           - "storybook"
           - "@storybook/*"
+      # Catch-all (PR-SWEEP-ALL, code#14166; Drew's grouping order
+      # 2026-11-24): every other bun version update arrives as ONE
+      # grouped PR instead of individual singles. Dependencies matching
+      # the mcp-sdk / storybook groups above still land in those groups.
+      all-dependencies:
+        patterns:
+          - "*"
   # Security updates for JavaScript manifests do not run under the bun
   # entry above: they arrive as npm_and_yarn jobs scoped to the manifest's
   # directory (e.g. PR #200, dependabot/npm_and_yarn/packages/desktop/…),
