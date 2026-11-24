@@ -14,13 +14,13 @@
     "typecheck:tsc": "tsc --noEmit"
   },
   "devDependencies": {
-    "@cloudflare/build-output-utils": "0.8.5",
-    "@cloudflare/config": "0.23.0",
+    "@cloudflare/build-output-utils": "0.9.14",
+    "@cloudflare/config": "0.32.1",
     "@opencode/data-app": "workspace:*",
     "@opencode/data-server": "workspace:*",
     "@types/bun": "catalog:",
     "@typescript/native": "catalog:",
-    "cf": "1.0.0-beta.12",
+    "cf": "1.0.0-rc.2",
     "typescript": "catalog:"
   }
 }

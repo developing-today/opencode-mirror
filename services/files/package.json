@@ -15,6 +15,6 @@
     "@cloudflare/workers-types": "catalog:",
     "@tsconfig/node22": "catalog:",
     "@typescript/native": "catalog:",
-    "wrangler": "4.110.0"
+    "wrangler": "4.166.0"
   }
 }

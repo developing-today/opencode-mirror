@@ -38,12 +38,12 @@
     "@opencode/util": "workspace:*",
     "@opentui/core": "catalog:",
     "effect": "catalog:",
-    "ws": "8.21.0"
+    "ws": "8.23.0"
   },
   "devDependencies": {
     "@tsconfig/bun": "catalog:",
     "@types/bun": "catalog:",
-    "@types/ws": "8.18.1",
+    "@types/ws": "8.18.2",
     "@typescript/native": "catalog:"
   }
 }

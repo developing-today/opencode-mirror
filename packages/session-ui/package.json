@@ -61,7 +61,7 @@
     "test:components:ui": "playwright test --config playwright.components.config.ts --ui"
   },
   "devDependencies": {
-    "@happy-dom/global-registrator": "20.0.11",
+    "@happy-dom/global-registrator": "21.0.4",
     "@playwright/test": "catalog:",
     "@tsconfig/node22": "catalog:",
     "@types/bun": "catalog:",
@@ -83,9 +83,9 @@
     "@solid-primitives/resize-observer": "catalog:",
     "diff": "catalog:",
     "effect": "catalog:",
-    "dompurify": "3.4.17",
+    "dompurify": "3.4.18",
     "marked": "catalog:",
-    "pele": "1.7.0",
+    "pele": "1.13.0",
     "solid-js": "catalog:"
   }
 }

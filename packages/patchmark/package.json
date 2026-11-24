@@ -19,7 +19,7 @@
     "@typescript/native": "catalog:",
     "commonmark": "0.31.2",
     "commonmark-spec": "0.31.2",
-    "micromark": "^4.0.0",
+    "micromark": "^4.0.3",
     "micromark-extension-gfm": "^3.0.0"
   }
 }

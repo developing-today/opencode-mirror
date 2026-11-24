@@ -118,7 +118,7 @@
     "generate:v2-oc2": "bun run script/build-oc2-v2-overrides.ts"
   },
   "devDependencies": {
-    "@happy-dom/global-registrator": "20.0.11",
+    "@happy-dom/global-registrator": "21.0.4",
     "@hona/strobe": "catalog:",
     "@solidjs/meta": "catalog:",
     "@tsconfig/node22": "catalog:",
@@ -128,7 +128,7 @@
     "tailwindcss": "catalog:",
     "typescript": "catalog:",
     "vite": "catalog:",
-    "vite-plugin-icons-spritesheet": "3.0.1",
+    "vite-plugin-icons-spritesheet": "3.1.0",
     "vite-plugin-solid": "catalog:"
   },
   "dependencies": {
@@ -140,7 +140,7 @@
     "@solid-primitives/event-listener": "catalog:",
     "@solid-primitives/resize-observer": "catalog:",
     "fuzzysort": "catalog:",
-    "katex": "0.18.11",
+    "katex": "0.19.1",
     "knobs": "npm:@kitlangton/knobs@0.4.0-next.22",
     "marked": "catalog:",
     "solid-list": "catalog:",

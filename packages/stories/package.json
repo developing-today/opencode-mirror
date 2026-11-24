@@ -13,12 +13,12 @@
     "@playwright/test": "catalog:",
     "@solidjs/meta": "catalog:",
     "@tailwindcss/vite": "catalog:",
-    "@tanstack/solid-query": "5.91.4",
+    "@tanstack/solid-query": "5.108.2",
     "@tsconfig/node22": "catalog:",
     "@types/node": "catalog:",
     "solid-js": "catalog:",
     "typescript": "catalog:",
-    "vite": "7.3.7",
-    "vite-plugin-solid": "2.11.12"
+    "vite": "8.3.8",
+    "vite-plugin-solid": "2.11.17"
   }
 }

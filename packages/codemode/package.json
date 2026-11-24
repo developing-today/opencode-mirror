@@ -27,7 +27,7 @@
     "test": "bun test"
   },
   "dependencies": {
-    "acorn": "8.15.0",
+    "acorn": "8.19.0",
     "effect": "catalog:",
     "psychoscript": "0.2.1"
   },

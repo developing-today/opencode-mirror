@@ -18,10 +18,10 @@
     "test": "bun test"
   },
   "dependencies": {
-    "@betteroffice/docx": "0.4.3",
-    "@betteroffice/fonts": "0.4.0",
-    "@betteroffice/pptx": "0.2.0",
-    "@betteroffice/xlsx": "0.3.0",
+    "@betteroffice/docx": "0.5.1",
+    "@betteroffice/fonts": "0.4.2",
+    "@betteroffice/pptx": "0.5.1",
+    "@betteroffice/xlsx": "0.5.1",
     "@effect/platform-node": "catalog:",
     "@kobalte/core": "catalog:",
     "@opencode/client": "workspace:*",
@@ -31,12 +31,12 @@
     "@opencode/session-ui": "workspace:*",
     "@opencode/ui": "workspace:*",
     "@opencode/util": "workspace:*",
-    "@pierre/trees": "1.0.0-beta.6",
+    "@pierre/trees": "1.0.0",
     "@solid-primitives/event-listener": "catalog:",
     "@solid-primitives/media": "catalog:",
     "@solid-primitives/resize-observer": "catalog:",
-    "@solid-primitives/scheduled": "1.5.3",
-    "@tanstack/solid-query": "5.91.4",
+    "@solid-primitives/scheduled": "2.0.0",
+    "@tanstack/solid-query": "5.108.2",
     "@tanstack/solid-virtual": "catalog:",
     "effect": "catalog:",
     "ffi-rs": "1.3.7",
@@ -44,20 +44,20 @@
     "ghostty-web": "github:anomalyco/ghostty-web#e91e38a9ceb13c566ddfa15185a9393849f712a9",
     "knobs": "npm:@kitlangton/knobs@0.4.0-next.22",
     "solid-js": "catalog:",
-    "tldts": "7.5.1"
+    "tldts": "7.5.5"
   },
   "devDependencies": {
-    "@happy-dom/global-registrator": "20.0.11",
+    "@happy-dom/global-registrator": "21.0.4",
     "@lydell/node-pty": "catalog:",
     "@opencode/protocol": "workspace:*",
     "@tsconfig/node22": "catalog:",
     "@types/bun": "catalog:",
     "@types/node": "catalog:",
     "@typescript/native": "catalog:",
-    "devtools-protocol": "0.0.1687809",
-    "electron": "44.9.1",
-    "electron-updater": "6.8.9",
-    "lighthouse": "13.4.1",
+    "devtools-protocol": "0.0.1751165",
+    "electron": "45.4.1",
+    "electron-updater": "6.8.11",
+    "lighthouse": "13.6.0",
     "vite": "catalog:"
   }
 }

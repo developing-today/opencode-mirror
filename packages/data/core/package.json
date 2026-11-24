@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@opencode/util": "workspace:*",
-    "@planetscale/database": "1.19.0",
+    "@planetscale/database": "2.0.0",
     "drizzle-orm": "catalog:",
     "effect": "catalog:"
   },

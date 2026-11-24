@@ -15,7 +15,7 @@
     "brand": "bun script/brand.ts"
   },
   "devDependencies": {
-    "@happy-dom/global-registrator": "20.0.11",
+    "@happy-dom/global-registrator": "21.0.4",
     "@types/bun": "catalog:",
     "@typescript/native": "catalog:",
     "happy-dom": "20.11.1",

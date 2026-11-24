@@ -18,7 +18,7 @@
   "dependencies": {
     "@opencode/plugin": "workspace:*",
     "@opentui/core": "catalog:",
-    "entities": "7.0.1",
+    "entities": "9.0.0",
     "string-width": "catalog:"
   },
   "devDependencies": {
