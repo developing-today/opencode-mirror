@@ -86,7 +86,7 @@
     "@parcel/watcher-linux-x64-glibc": "2.5.1",
     "@parcel/watcher-win32-arm64": "2.5.1",
     "@parcel/watcher-win32-x64": "2.5.1",
-    "solid-refresh": "0.6.3",
+    "solid-refresh": "0.7.8",
     "vite": "catalog:",
     "vite-plugin-solid": "catalog:"
   },
