@@ -58,7 +58,7 @@
     "@typescript/native": "catalog:",
     "@webgpu/types": "0.1.54",
     "babel-preset-solid": "1.9.15",
-    "cf": "1.0.0-beta.12",
+    "cf": "1.0.0-rc.2",
     "estree-util-visit": "2.0.0",
     "github-slugger": "2.0.0",
     "hast-util-to-text": "4.0.2",

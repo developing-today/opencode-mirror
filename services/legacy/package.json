@@ -20,7 +20,7 @@
     "@cloudflare/workers-types": "catalog:",
     "@tsconfig/node22": "catalog:",
     "@typescript/native": "catalog:",
-    "cf": "1.0.0-beta.12",
+    "cf": "1.0.0-rc.2",
     "wrangler": "4.156.2"
   }
 }
